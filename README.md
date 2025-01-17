@@ -110,7 +110,7 @@ ssh -i .\connect-ubuntu.pem harry@192.168.0.100
 
 Here’s what the output looks like after successfully connecting:
 
-![PowerShell SSH Output](output.png)
+![PowerShell SSH Output](SSH_output.png)
 
 ## Conclusion 🎉🚀
 Once you’ve completed these steps, your Windows PowerShell should successfully connect to your Ubuntu terminal using SSH over your home/local network. This setup provides a secure, seamless way to manage your Ubuntu system directly from your Windows machine. 🔐💻🔧
